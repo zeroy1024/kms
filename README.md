@@ -8,6 +8,6 @@ dist中的kms.exe为Pyinstaller打包版本，可直接拿去使用，建议用�
 kms.py为源码
 
 # Office
-## 2020-03-07更新
-激活Office的工具，基本支持MSDN上的所有的Vol版本激活，2016/2019支持自动转Vol
+
+- [2020-03-07更新]&#160; 激活Office的工具，基本支持MSDN上的所有的Vol版本激活，2016/2019支持自动转Vol
 
